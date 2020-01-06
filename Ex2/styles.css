@@ -1,0 +1,23 @@
+
+.title{
+	font-family:"Verdana";
+	text-align:center;
+	color:White;
+	
+}
+.marq{
+	font-family:"Arial";
+	color:White;
+	background-color:#10ac84;
+}
+body{
+	background-color:#244357;	
+}
+
+.list{
+	background-color:White;
+	width:300px;
+	height:100px;
+	font-family:"Verdana";
+	
+}
